@@ -41,7 +41,6 @@ INSTALLED_APPS = [
     'rest_framework',
     'rest_framework.authtoken',
     'Employee_management_system',
-    'drf_yasg',
     'corsheaders',
 ]
 
